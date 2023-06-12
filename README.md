@@ -6,4 +6,3 @@ commit2
 yfc
 srthsx
 uytuycv
-9
