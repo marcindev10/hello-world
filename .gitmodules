@@ -1,0 +1,3 @@
+[submodule "nauka_gita"]
+	path = nauka_gita
+	url = https://github.com/marcindev10/nauka_gita.git
